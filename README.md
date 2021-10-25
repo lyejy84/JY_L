@@ -24,6 +24,7 @@ I am __JY__, a seasoned data scientist with ~6 years of progressive experience i
 [Education](#education) <br>
 [Projects](#projects) <br>
 [Featured](#featured) <br> 
+[Extra-curricular](#featured) <br> 
 
 <!-- ABOUT Section Ends -->
 
@@ -82,4 +83,6 @@ Machine Learning by Columbia University
 
 ##### Achievements
 Star performer of the year at Accenture
+
+##### Extra-curricular
 <!-- FEATURED Section Ends -->
